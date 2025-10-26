@@ -24,13 +24,13 @@ Together, these files show the full system pipeline: **concept → math → repr
 
 ---
 
-### Addenda (to be uploaded)
+### Addenda
 
 | File | Description |
 |------|--------------|
-| **addenda/Torque-Gate-Coupling_Addendum_v2.5.pdf** | Expands the τ / σ dynamics and finite-step convergence proof. Includes symbolic torque variants (2T-A … 2T-D). |
-| **addenda/Emoji-Interface_Addendum_v0.1.pdf** | Explains how algebraic operators and variables map to emoji tokens for interpretability and teaching. |
-| **addenda/Emoji-Language-Spec_v0.1.pdf** | Draft specification defining grammar, operators, and precedence for the emoji language layer. |
+| [addenda/Torque-Gate-Coupling_Addendum_v2.5.pdf](addenda/Torque-Gate-Coupling_Addendum_v2.5.pdf) | Expands the τ / σ dynamics and finite-step convergence proof. Includes symbolic torque variants (2T-A … 2T-D). |
+| [addenda/Emoji-Interface_Addendum_v0.1.pdf](addenda/Emoji-Interface_Addendum_v0.1.pdf) | Explains how algebraic operators and variables map to emoji tokens for interpretability and teaching. |
+| [addenda/Emoji-Language-Spec_v0.1.pdf](addenda/Emoji-Language-Spec_v0.1.pdf) | Draft specification defining grammar, operators, and precedence for the emoji language layer. |
 
 ---
 
