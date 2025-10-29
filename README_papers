@@ -1,0 +1,8 @@
+# Buoyancy Algebra — Research Papers (Vol I–II)
+
+| Paper | Domain | Corpus | ΔΠ | n |
+|:--|:--|:--|:--:|:--:|
+| [Ethicist — Institutional Proportion](./Paper1_Ethicist_Institutional.pdf) | Institutional ethics | NYT “Should I Retire?” | 0.079 | 18 |
+| [Readers Respond — Participatory Proportion](./Paper2_Readers_Participatory.pdf) | Participatory discourse | Facebook “Readers Respond” | 0.083 | 33 |
+
+**Reproducibility:** data & scripts in the companion repo [`buoyancy-algebra-demo`](https://github.com/MICCHECKwithhim/buoyancy-algebra-demo).
